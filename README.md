@@ -7,3 +7,5 @@ Positional arguments:
 1. number of open connections
 2. test duration (in seconds)
 3. path to write results file
+
+HTML graph : `python3 csv_to_graph.py results.csv results.html` (requires `pandas` and `plotly_express`).
